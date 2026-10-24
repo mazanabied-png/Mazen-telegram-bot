@@ -1,0 +1,81 @@
+{
+    "admins": [
+        1540807316
+    ],
+    "seasons": {
+        "Season 1": {
+            "First Term": {},
+            "Second Term": {}
+        },
+        "Season 2": {
+            "First Term": {
+                "Human biology": {
+                    "Quiz 1": [
+                        {
+                            "question": "١",
+                            "options": [
+                                "١",
+                                "٢",
+                                "٣",
+                                "٤"
+                            ],
+                            "correct_option_id": 0,
+                            "explanation": null
+                        }
+                    ]
+                }
+            },
+            "Second Term": {}
+        },
+        "Season 3": {
+            "First Term": {},
+            "Second Term": {}
+        },
+        "Season 4": {
+            "First Term": {},
+            "Second Term": {}
+        }
+    },
+    "polls_map": {
+        "5971922068244006163": {
+            "quiz_path": "Season 2_First Term_Human biology_Quiz 1",
+            "user_name": "Mazen",
+            "correct_option": 0
+        },
+        "5971922068244006164": {
+            "quiz_path": "Season 2_First Term_Human biology_Quiz 1",
+            "user_name": "Mazen",
+            "correct_option": 0
+        },
+        "5971922068244006167": {
+            "quiz_path": "Season 2_First Term_Human biology_Quiz 1",
+            "user_id": "1540807316",
+            "correct_option": 0
+        },
+        "5971922068244006168": {
+            "quiz_path": "Season 2_First Term_Human biology_Quiz 1",
+            "user_id": "1540807316",
+            "correct_option": 0
+        },
+        "5971922068244006169": {
+            "quiz_path": "Season 2_First Term_Human biology_Quiz 1",
+            "user_id": "1540807316",
+            "correct_option": 0
+        },
+        "5971922068244006170": {
+            "quiz_path": "Season 2_First Term_Human biology_Quiz 1",
+            "user_id": "1540807316",
+            "correct_option": 0
+        }
+    },
+    "stats": {
+        "Season 2_First Term_Human biology_Quiz 1": {
+            "1540807316": {
+                "name": "Mazen",
+                "score": 1,
+                "total": 1,
+                "answered": 1
+            }
+        }
+    }
+}
