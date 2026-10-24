@@ -5,7 +5,7 @@ import json
 import os
 
 TOKEN = '8976847435:AAGkOm_yk7ydxk1PJ5gqAWlizEky_OR-LDA'
-bot = telebot.TeleBot(8976847435:AAGkOm_yk7ydxk1PJ5gqAWlizEky_OR-LDA)
+bot = telebot.TeleBot(TOKEN)
 
 # سطر البروكسي الخاص بـ PythonAnywhere
 apihelper.proxy = {'https': 'http://proxy.server:3128'}
